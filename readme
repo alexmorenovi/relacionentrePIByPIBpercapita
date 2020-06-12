@@ -1,0 +1,11 @@
+Anáilisis econímico que busca responder dos preguntas:
+1.	¿Cuál es la relación entre la tasa de crecimiento del PIB real y la tasa de crecimiento del PIB real per cápita?
+2.	¿Las tasas de crecimiento en las últimas décadas indican que las brechas entre el PIB real per cápita de los distintos 
+países se están reduciendo, ampliando o se conservan sin cambios?
+
+Para esto se utilizaron datos del Banco Mundial (1961-2019).
+
+La estracción de la información necesaria para el análisis se realizó en el archivo: "gdp_analysis.py"
+La visualización de los resultados se realizó en el archivo: "results.py"
+
+Una disculpa por la falta de documentación. 
