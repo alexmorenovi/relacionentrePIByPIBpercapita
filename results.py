@@ -31,8 +31,3 @@ plt.show()
 plt.title("Desviación Estandar")
 plt.plot(years, desv)
 plt.show()
-
-#desv = pd.DataFrame([desv])
-
-#desv.to_csv(r'C:\Users\LENOVO\OneDrive\Documentos\Tec\Segundo Semestre\Economía\resultados.csv', index=False, header=True)
-
